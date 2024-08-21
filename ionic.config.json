@@ -1,0 +1,7 @@
+{
+  "name": "ezyride",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
