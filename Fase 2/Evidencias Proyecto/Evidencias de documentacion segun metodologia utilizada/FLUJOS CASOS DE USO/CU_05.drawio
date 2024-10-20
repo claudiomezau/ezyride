@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" scale="1" border="0" version="24.8.0">
+  <diagram name="Página-1" id="JXzOanCUcrfbWomFkNEy">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHpvuN76fgIFQr7s0_ul-2" target="AHpvuN76fgIFQr7s0_ul-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="430" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHpvuN76fgIFQr7s0_ul-3" target="AHpvuN76fgIFQr7s0_ul-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-3" value="Llega el día de la reserva y la reserva esta en estado &quot;Pendiente_llegada&quot; o &quot;Pendiente_salida&quot; dependiendo." style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="400" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHpvuN76fgIFQr7s0_ul-5" target="AHpvuN76fgIFQr7s0_ul-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-5" value="Pasajero confirma punto de encuentro y la reserva cambia a &quot;Pendiente_asignacion&quot;." style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHpvuN76fgIFQr7s0_ul-7" target="AHpvuN76fgIFQr7s0_ul-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-11" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHpvuN76fgIFQr7s0_ul-10">
+          <mxGeometry x="0.3333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHpvuN76fgIFQr7s0_ul-7" target="AHpvuN76fgIFQr7s0_ul-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-14" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHpvuN76fgIFQr7s0_ul-13">
+          <mxGeometry x="0.0278" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-7" value="Hay conductores disponibles?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHpvuN76fgIFQr7s0_ul-9" target="AHpvuN76fgIFQr7s0_ul-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-9" value="El conductor se asigna esa reserva y la reserva cambia a estado &quot;Asignado&quot;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AHpvuN76fgIFQr7s0_ul-12" target="AHpvuN76fgIFQr7s0_ul-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-12" value="Espera a que algún conductor se desocupe" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="310" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHpvuN76fgIFQr7s0_ul-16" target="AHpvuN76fgIFQr7s0_ul-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-16" value="El conductor va al punto de encuentro y tanto el como el pasajero hacen click y la reserva cambia a &quot;En servicio&quot;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="740" y="410" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHpvuN76fgIFQr7s0_ul-18" target="AHpvuN76fgIFQr7s0_ul-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-18" value="La reserva llega a su destino y finaliza el recorrido y la reserva cambia a &quot;Completada&quot;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="940" y="415" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AHpvuN76fgIFQr7s0_ul-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="435" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

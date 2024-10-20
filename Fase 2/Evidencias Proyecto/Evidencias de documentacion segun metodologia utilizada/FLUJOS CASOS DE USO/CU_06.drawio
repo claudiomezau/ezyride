@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
+  <diagram name="Página-1" id="e0zp9veGITrXWvIL4c5N">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-1" target="sEf6dR-doDsaZ2vPCtex-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-2" target="sEf6dR-doDsaZ2vPCtex-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-2" value="Pasajero llega al punto de encuentro" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-4" target="sEf6dR-doDsaZ2vPCtex-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-4" value="Hace click en &quot;He llegado&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-6" target="sEf6dR-doDsaZ2vPCtex-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-6" value="El estado cambia a &quot;Pendiente_asignacion&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-10" target="sEf6dR-doDsaZ2vPCtex-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-10" value="La App muestra una pantalla que el sistema esta buscando conductores disponibles" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="232.5" width="145" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-12" target="sEf6dR-doDsaZ2vPCtex-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-20" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="sEf6dR-doDsaZ2vPCtex-15">
+          <mxGeometry x="0.12" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-12" target="sEf6dR-doDsaZ2vPCtex-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-23" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="sEf6dR-doDsaZ2vPCtex-22">
+          <mxGeometry x="-0.1111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-12" value="Se encontraron conductores?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="225" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-14" target="sEf6dR-doDsaZ2vPCtex-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-14" value="La App muestra los datos de reserva y conductor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-18" target="sEf6dR-doDsaZ2vPCtex-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-27" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="sEf6dR-doDsaZ2vPCtex-26">
+          <mxGeometry x="-0.1406" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-18" target="sEf6dR-doDsaZ2vPCtex-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-30" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="sEf6dR-doDsaZ2vPCtex-29">
+          <mxGeometry x="-0.1769" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-18" value="El pasajero tuvo algún inconveniente y no quiere que lo pasen a buscar ahora?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="202.5" width="135" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-21" target="sEf6dR-doDsaZ2vPCtex-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-21" value="La App sigue buscando a conductores" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-25" target="sEf6dR-doDsaZ2vPCtex-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-25" value="El usuario tiene un botón &quot;Cancelar&quot; que modifica el estado de la reserva" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1302.5" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEf6dR-doDsaZ2vPCtex-28" target="sEf6dR-doDsaZ2vPCtex-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-28" value="El usuario espera a que llegue el conductor&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sEf6dR-doDsaZ2vPCtex-32" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="251.25" width="30" height="27.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

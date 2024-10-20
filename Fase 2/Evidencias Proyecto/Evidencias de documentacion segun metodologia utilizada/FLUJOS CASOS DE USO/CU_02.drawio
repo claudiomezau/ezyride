@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="rdsCg-M-_OJxKA384Iji">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhQqYh6V4psf2OxPvBnz-1" target="IhQqYh6V4psf2OxPvBnz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhQqYh6V4psf2OxPvBnz-2" target="IhQqYh6V4psf2OxPvBnz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-2" value="La reserva se encuentra en &quot;Asignada&quot;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="115" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhQqYh6V4psf2OxPvBnz-4" target="IhQqYh6V4psf2OxPvBnz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-4" value="El pasajero se encuentra en el punto de encuentro y hace el contacto con el conductor" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="315" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhQqYh6V4psf2OxPvBnz-6" target="IhQqYh6V4psf2OxPvBnz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-6" value="Hace click &quot;Confirmación de encuentro&quot;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="515" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhQqYh6V4psf2OxPvBnz-8" target="IhQqYh6V4psf2OxPvBnz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-8" value="El conductor hace click en &quot;Confirmación del encuentro&quot;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="715" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tszXRTOOIHhWSwNtoT1h-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhQqYh6V4psf2OxPvBnz-10" target="tszXRTOOIHhWSwNtoT1h-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhQqYh6V4psf2OxPvBnz-10" value="La reserva cambia a &quot;En servicio&quot;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="915" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tszXRTOOIHhWSwNtoT1h-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="207.5" width="35" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
