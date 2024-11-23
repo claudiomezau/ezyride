@@ -1,0 +1,17 @@
+Credenciales Firebase para Flujo Conductor
+
+Email:
+
+luis@yopmail.com
+
+Pass:
+
+Password1
+
+
+
+Numero telefono Reserva Flujo Pasajero
+
+Telefono1: 912345678
+Telefono2: 923456789
+Telefono3: 934567890
